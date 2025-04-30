@@ -15,7 +15,8 @@
 ## 📫 Connect with Me
 - GitHub: [BaoAnNguyen1903](https://github.com/BaoAnNguyen1903)
 - Email: anndb1903@gmail.com
-- Portfolio: [([https://github.com/BaoAnNguyen1903](https://anportfolio.vercel.app/))](https://anportfolio.vercel.app/)
+- Portfolio: anportfolio.vercel.app
+- Linkedin: linkedin.com/in/nguyen-dinh-bao-an/
 
 ## ⚡ Fun Fact
 I love coding while listening to **Lofi music 🎵** and exploring new tech trends!
