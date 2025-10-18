@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🎓 I'm a IT student at FPT University.
 - 💻 Passionate about Full-Stack Development (Spring Boot & React).
-- 📚 Currently learning **NextJS & NodeJS**.
+- 📚 Currently learning **NextJS & NestJS**.
 - 🎯 Interested in full-stack developer.
 
 ## 🔧 Tech Stack
