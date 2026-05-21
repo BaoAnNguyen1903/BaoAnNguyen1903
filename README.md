@@ -56,14 +56,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/BaoAnNguyen1903">
-    <img src="https://github-readme-stats.vercel.app/api?username=BaoAnNguyen1903&show_icons=true&theme=tokyonight&hide_border=true" alt="An's GitHub stats" />
-  </a>
-  <a href="https://github.com/BaoAnNguyen1903">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaoAnNguyen1903&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
